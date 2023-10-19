@@ -1,0 +1,22 @@
+{
+    "users" : [
+        {
+            "name" : "Devesh Suryawanshi",
+            "age" : 19,
+            "email" : "devesh@gmail.com",
+            "password" : "Devesh0110"
+        },
+        {
+            "name" : "Naman Shrewastav",
+            "age" : 22,
+            "email" : "naman@gmail.com",
+            "password" : "Naman0110"
+        },
+        {
+            "name" : "Shreya Sawant",
+            "age" : 18,
+            "email" : "shreya@gmail.com",
+            "password" : "Shreya0110"
+        }
+    ]
+}
